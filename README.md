@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Chakradhari</h1>
 <h3 align="center">Aspiring Front End Developer with a keen interest in SQL databases and a passion for data-driven solutions. Familiarity with SQL queries and database management systems, eager to expand skills in data manipulation and analysis. Basic understanding of front-end frameworks like React, with a desire to further develop expertise in this area.</h3>
 
+<img align="right" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-chakradhari&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-chakradhari" /> </p>
 
 - 🌱 I’m currently learning **DSA,ReactJS**
@@ -9,6 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/rahul-chakradhari-17a437217](www.linkedin.com/in/rahul-chakradhari-17a437217)
 
+- ⚡ Fun fact **I am a university chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
