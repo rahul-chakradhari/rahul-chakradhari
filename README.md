@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-chakradhari&" alt="rahul-chakradhari" /></p>
 
 
-
-https://holopin.me/rahulchakradhari)](https://holopin.io/@rahulchakradhari
+[![An image of @rahulchakradhari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulchakradhari)](https://holopin.io/@rahulchakradhari)
