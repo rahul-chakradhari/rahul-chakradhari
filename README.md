@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Chakradhari</h1>
+<h1 align="center"> Hi 👋, I'm Rahul Chakradhari</h1>
 <h3 align="center">Aspiring Front End Developer with a keen interest in SQL databases and a passion for data-driven solutions. Familiarity with SQL queries and database management systems, eager to expand skills in data manipulation and analysis. Basic understanding of front-end frameworks like React, with a desire to further develop expertise in this area.</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
