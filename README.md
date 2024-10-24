@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulchakradhari10september@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rahul-chakradhari-17a437217](www.linkedin.com/in/rahul-chakradhari-17a437217)
+- 📄 Know about my experiences www.linkedin.com/in/rahul-chakradhari-17a437217
 
 
 
