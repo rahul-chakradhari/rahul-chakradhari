@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-chakradhari&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-chakradhari" /> </p>
 
-- 🌱 I’m currently learning **DSA,ReactJS**
+- 🌱 **Java Backend Developer proficient in Core Java, Spring Boot, and Spring Security. Expertise in Clean
+Architecture and Scalable Design. Passionate about building robust backend APIs and solving complex
+architectural challenges through hands-on project experience.**
 
 - 📫 How to reach me **rahulchakradhari10september@gmail.com**
 
