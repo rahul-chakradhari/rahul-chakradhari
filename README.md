@@ -47,7 +47,6 @@ architectural challenges through hands-on project experience. </b></h3>
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-chakradhari&show_icons=true&locale=en&layout=compact" alt="rahul-chakradhari" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-chakradhari&" alt="rahul-chakradhari" /></p>
