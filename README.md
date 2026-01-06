@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Rahul Chakradhari</h1>
-<h3 align="center"><b>🌱 Java Backend Developer proficient in Core Java, Spring Boot, and Spring Security. Expertise in Clean
-Architecture and Scalable Design. Passionate about building robust backend APIs and solving complex
-architectural challenges through hands-on project experience. </b></h3>
+<h3 align="center"><b>🌱 Java Backend Developer with hands-on experience in Spring Boot and Spring Security, focused on building scalable, fault-tolerant backend systems using real-world microservices design. </b></h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
